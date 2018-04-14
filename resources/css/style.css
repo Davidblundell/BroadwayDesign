@@ -1,0 +1,42 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  }
+
+.background {
+  color: white; background-image: url("/projects/BroadwayDesign/resources/images/the-flatiron-building.png");
+  background-position: right;
+}
+
+.background p a {
+  font-size: 18px;
+}
+
+p a {
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
+
+#footer {
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
+#copyright {
+  font-size: 11px;
+}
